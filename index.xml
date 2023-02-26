@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data Science Portfolio on Ahmad Kamiludin</title>
+    <link>https://kamiludin.github.io/</link>
+    <description>Recent content in Data Science Portfolio on Ahmad Kamiludin</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 19 Jan 2023 10:58:08 -0400</lastBuildDate><atom:link href="https://kamiludin.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Project 6 : Automated Leak Detection in Oil and Gas Pipelines</title>
+      <link>https://kamiludin.github.io/post/project6/</link>
+      <pubDate>Thu, 19 Jan 2023 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project6/</guid>
+      <description>Business Understanding: Adcor Energy is a company engaged in the exploration and production of crude oil and natural gas. Adcor Energy is also equipped with IoT sensors installed on several pipelines. However, Adcor Energy often experiences leaks in its pipelines, and they want to address this issue immediately to prevent any potential harm to the company. Utilizing the IoT sensors and available resources, the company has requested the Data Science team to create a Machine Learning model that can automatically detect potential damages or leaks in the oil and gas pipelines.</description>
+    </item>
+    
+    <item>
+      <title>Project 5 : Twitter Sentiment Analysis on the 17th G20 Summit in Indonesia Using Machine Learning</title>
+      <link>https://kamiludin.github.io/post/project5/</link>
+      <pubDate>Tue, 29 Nov 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project5/</guid>
+      <description>Problem Scoping: G20 is an international forum that focuses on coordinating policies in the areas of economics and development. The G20 was born in response to the world economic crisis in 1997-1998. For the first time, Indonesia held the G20 Presidency, which was held in Bali on November 15-16, 2022. This sentiment analysis can be used to understand public opinions and reactions to &amp;ldquo;G20 Indonesia&amp;rdquo; through the Twitter social media platform.</description>
+    </item>
+    
+    <item>
+      <title>Project 4: Analysis of Coconut Production in Lumajang Regency, East Java, Indonesia, Using Rapid Miner</title>
+      <link>https://kamiludin.github.io/post/project4/</link>
+      <pubDate>Fri, 06 May 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project4/</guid>
+      <description>Business Understanding: Lumajang Regency is one of the areas in the southern part of East Java Province, Indonesia. Lumajang Regency has considerable potential in the agricultural, plantation, and other sectors. In the plantation sector, the most extensive use of the area in Lumajang Regency in 2021 is the Coconut harvested area of 7,939 ha with a production yield of 8,259.78 tons. Then followed by 3,962.5 hectares of robusta coffee plantations with a production of 1,312.</description>
+    </item>
+    
+    <item>
+      <title>Project 3: Market Basket Analysis At Blangkon Café Using Knime Analytics</title>
+      <link>https://kamiludin.github.io/post/project3/</link>
+      <pubDate>Fri, 14 Jan 2022 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project3/</guid>
+      <description>Business Understanding: Blangkon Cafe is a company engaged in the food and beverage sector. Currently, Blangkon Cafe is growing rapidly and focuses on selling various types of Traditional and Modern food and beverages. Blangkon Cafe will focus on increasing sales innovation so that it can continue to increase sales profit.
+  Data Understanding: The dataset used contains the Date and Time, Receipt ID, Product Name, Product Category, Number of Products, and so on.</description>
+    </item>
+    
+    <item>
+      <title>Project 2: Sentiment Analysis Of TAMPIL&#39;S Application</title>
+      <link>https://kamiludin.github.io/post/project2/</link>
+      <pubDate>Mon, 30 Aug 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project2/</guid>
+      <description>This project analyzes the reviews given by Users on the TAMPIL application on the Google Play store. The TAMPIL application is a platform for hosting webinars or community events and partners using the TAMPIL video conference service. This application is owned by PT Bisa Artificial Indonesia, which is located in Bandung, West Java, Indonesia.
+  This project is my last project or Final Project as a participant in Master On Job Training at BISA AI Academy, which is carried out for 1 month.</description>
+    </item>
+    
+    <item>
+      <title>Project 1: Country Clustering Analysis</title>
+      <link>https://kamiludin.github.io/post/project1/</link>
+      <pubDate>Sat, 03 Jul 2021 10:58:08 -0400</pubDate>
+      
+      <guid>https://kamiludin.github.io/post/project1/</guid>
+      <description>The project analyzes data from the HELP International Organization, where Chief Executive Officers need to decide how to use their money strategically and effectively. So, the Chief Executive Officer must decide to select the countries most in need of assistance. The purpose of this analysis is to categorize countries using the socioeconomic and health factors that determine the country&amp;rsquo;s overall development.
+  After understanding the data, I did Exploratory Data Analysis (EDA) which consisted of Handling Missing Value, Univariate Analysis, Bivariate Analysis, and Multivariate Analysis.</description>
+    </item>
+    
+    <item>
+      <title>Contact</title>
+      <link>https://kamiludin.github.io/contact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://kamiludin.github.io/contact/</guid>
+      <description>Follow me on these social media platforms.
+   Platform URL     Website: https://medium.com/@ahmadkamiludin   Instagram: https://www.instagram.com/kamiludin18/   LinkedIn: https://www.linkedin.com/in/ahmad-kamiludin-9739b61b6/   GitHub: https://github.com/kamiludin    </description>
+    </item>
+    
+  </channel>
+</rss>
